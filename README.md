@@ -38,3 +38,4 @@ CSS:
 -Same as above for Benefits. Combine all CSS to fall under section
 -Fix to path correctly to footer instead of a footer class
 -CSS for all of the sections weren't grouped correctly - fixed.
+Added media queries to try them out. Only one scale issue with iPad.
