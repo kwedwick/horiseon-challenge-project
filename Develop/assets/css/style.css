@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
 }
 
 /* Header Start */
@@ -42,14 +43,12 @@ header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-a, a:visited, a:hover, a:active {
+header h1 a, a:visited, a:hover, a:active {
     color: inherit;
     text-decoration: none;
   }
 /* Header End*/
-p {
-    font-size: 16px;
-}
+
 /* Hero start */
 .hero {
     height: 800px;
@@ -67,16 +66,21 @@ p {
     margin-left: 20px;
 }
 /* Changed CSS class */    
-.content-article {
+.landing-content img {
+    max-height: 200px;
+}
+.content-section {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 25px;
     height: 300px;
     background-color: #0072bb;
     color: #ffffff;
     overflow: auto;
-    box-sizing: border-box;
 }
+main section img {
+    margin: 25px;
 
+}
 .content-text {
     text-align: left;
     padding: 25px;
@@ -86,15 +90,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-.landing-content img {
-    max-height: 200px;
-}
+
 .float-left {
     float: left;
 }
 .float-right {
     float: right;
 }
+
 /* Content Section End */
 /* Beneft Section Start */
 .benefits {
