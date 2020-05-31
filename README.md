@@ -44,4 +44,4 @@ Link to github repo: https://github.com/kwedwick/horiseon-challenge-project
 8. Added media queries to try them out for mobile use to have things scale and format correctly as the window shrinks
 
 ## Photo of Completed Project
-![Image of Completed Webpage] (Develop\assets\images\Horiseon-Completed-Webpage.png)
+![Image of Completed Webpage] (./Develop/assets/images/Horiseon-Completed-Webpage.png)
