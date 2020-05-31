@@ -74,30 +74,27 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     overflow: auto;
-}
-.landing-content img {
-    max-height: 200px;
-    display: inline-block;
-}
-.text-right {
-    text-align: right;
-    margin-left: 25px;
-    display: inline-block;
-    float: right;
+    box-sizing: border-box;
 }
 
-.text-left {
+.content-text {
     text-align: left;
-    margin-right: 25px;
-    display: inline-block;
-    float: left;
+    padding: 25px;
 }
 
 .landing-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+.landing-content img {
+    max-height: 200px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
 /* Content Section End */
 /* Beneft Section Start */
 .benefits {
