@@ -37,9 +37,11 @@ Link to github repo: https://github.com/kwedwick/horiseon-challenge-project
 1. Redo for header as not a class
 2. Redo "Hero" section of div in CSS
 3. Changed div to nav in sections
-4. Need to combine a lot of sections. Removing classes for all under <section class="content"> to apply stlyes to all and then sub define for positioning
-5. Same as above for Benefits. Combine all CSS to fall under section
+4. Needed to combine a lot of classes there each applying the same effects. Removing classes for all under \section class="content"\ to apply stlyes to all and then sub define for positioning
+5. Same as above for Benefits. Combine all CSS to fall under 'section'
 6. Fix to path correctly to footer instead of a footer class
 7. CSS for all of the sections weren't grouped correctly - fixed.
-8. Added media queries to try them out for mobile use.
+8. Added media queries to try them out for mobile use to have things scale and format correctly as the window shrinks
 
+## Photo of Completed Project
+![Image of Completed Webpage] (Develop\assets\images\Horiseon-Completed-Webpage.png)
